@@ -3169,11 +3169,11 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "LIGA URUGUAY",
+        "name": "LIGA URUGUAY54rrt",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
         "uri": "2fvaWsRC0HXcQGZvjvDA59mLfRyrbOpd2GzLyBnPGVUg387zQ9oIEcP4eu/+2/3L",
-        "referer": "magmaplayer.com",
-        "user_agent": "Magma Player/8"
+        "referer": "https://magmaplayer.com",
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.1.2; SM-G955N"
       }
     ]
   }
