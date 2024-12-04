@@ -73,6 +73,11 @@
     "name": "ARGENTINA",
     "samples": [
       {
+        "name": "TELEFE OPC 3",
+        "icono": "https://media.telebajocero.com/p/8ca46d77b015140bb36d7daf7607cbe7/adjuntos/225/imagenes/000/936/0000936200/412x232/smart/gran-hermano-2024jpg.jpg",
+        "uri": "y+GKKMRHKnjRPKs7jZ+Kw0Omb5h+p20rNMxoc87hpcAldmKGYgvdr8WZzS4VVM6QtSOzUJdtcMS/WzNxKghAnr1zDZHvjFLCy0pWXObLPykfURLFk6goKlY1QtTPf9+3IL9nI60NhUH953cKqafWucqLXicFPTkrb2m9q+AuTC0="
+      },
+      {
         "name": "TELEFE",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Clauy9xbWgSKVU+8AD02XqZ7tH9rFJH9gs6LJyUckpbEjinJpz+WMS7abhDL0JILdCUmtA8J7xXJB3HCndAUNvd",
