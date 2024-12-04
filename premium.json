@@ -3169,11 +3169,11 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "LIGA URUGUAY OPC 22",
+        "name": "LIGA URUGUAY",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
-        "uri": "+aDNUmMzGS0pfMycJSPn+PTEsPosFjtFzleQxo4KIATRCQjmeL6Qv6mu0u03V4LxnRSZpoOQCh8oK6M0+b4C/g==",
-        "referer": "https://en-vivo.pro/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        "uri": "2fvaWsRC0HXcQGZvjvDA59mLfRyrbOpd2GzLyBnPGVUg387zQ9oIEcP4eu/+2/3L",
+        "referer": "https://magmaplayer.com",
+        "user_agent": "Magma Player/8"
       }
     ]
   }
