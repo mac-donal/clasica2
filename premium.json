@@ -239,13 +239,6 @@
       {
         "name": "CRONICA TV OPC 2",
         "icono": "https://i.ibb.co/vvptksh/maxresdefault.jpg",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS8KHtS6uZSs18YC/LUJ58tyHOVvas+ZvV9gvniRfmQ55mM98f7a3n/Cr8a8GiI/Ewg=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySDOiTqwCoc5cj683PyeRKhWJdGjf33Kc7ABDRxPEH8IvwbrF3g5i8NynI80NCNLa+tonwiV3kczbpBcf0kNwuHqIKgcSahLslOMAHJOLT0R1K55velL/Lr0nwmDpITJ/A=="
-      },
-      {
-        "name": "CRONICA TV OPC 3",
-        "icono": "https://i.ibb.co/vvptksh/maxresdefault.jpg",
         "uri": "jb9IVxSwSXcTodMgk9X+Yg3XgrMoF8C1p5XjcGR1pXDYaEzWVnPN7XHFEpWNSYBSMxCXeJ0r9bD35Kxg7Ru3wQ=="
       },
       {
@@ -256,13 +249,6 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ya65IfjI9f/xZexdUGAS/QNuUSkWGglth9SWOnTp0ylUBJN3zE43U5cBeWR9nnQcHkjFkcK7jMdPTA5myQMzfFt3SyMJDTANUnazg4vzcmtG1DVNObIrCNe+H5TtOHbcxw==",
         "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "A24 OPC 2",
-        "icono": "https://i.ibb.co/z2QvG13/Logo-a24.jpg",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS924G9wvm+Xf9HHMZ9PwpUDwUaO21tAjEg1CSrHpcsMJw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yfF/RHuNvLBHlzzFIiojsgX2q2MYSYt0Rc3BdWUeB8f3Zm5axngQQKmU7jaDCpAK2O08p/aIY/uG0UzQAkKence+BjTa3DRMQZcqKJ1/Xse8OTg8Pi9KPbRjnCkDuiAvqQ=="
       },
       {
         "name": "CANAL 26",
@@ -297,18 +283,11 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "CANAL IP OPC 2",
-        "icono": "https://i.ibb.co/GQ6LCnV/share.png",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS/liZjnv1R0N4QMEVckRZ2m9zdnP2VGEFFID/VnCJvEfg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yfXzZswH/ztQAYOA8heXwP9xyBOt7TAqkGLWalPaIb8TY7YlSufJamsb3D4GrkZIOlVynk3IUp3FGItv/jyOwhLlHrqqr1ex+1s60ym8cLFxB5ZjmRXr19RY7F62VgM4oA=="
-      },
-      {
         "name": "ARGENTINISIMA SATELITAL",
         "icono": "https://i.ibb.co/G0zCDL0/descarga-1.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmTkysbDO2+afs4FhmGiGFqNLjNLLCblQSUJgr1f5r27RcTarLtw7+HdRK+hn4DPOJO7rVB/OdfxkybvI2CcwqD",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "+DSi8tZ5dOGDQheZv9rb3bIi+2ipEC41mXCVi0SjytGk/wevm4It8v5uY3EjI90nNV65CngaNbTQk4htY7dUJJ46wjJWRZk3TGWLQjsqiTOpOfTYh7HdsNlxu+85RzXqNHTtlZU1phiI/FPLJ05WsC/6a64CBfLslTqO8BjzFMm5p2Rj12slE2Lt7QfJD2lv2xHqaSnBQQowv1UkubNqYQ==",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yWo1KRDYNJEog67lG3bOgCCO72NxYoOlp75TOR5Mh3mAGPae/K/66YPFt6djY4d1Vc5P3DGr96Q/FrsNQuNf88CGmvwpsu/21BrsNjukQ4dBqPBPPwQEO0xxJRbnhUqa3A==",
         "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
