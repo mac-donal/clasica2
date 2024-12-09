@@ -1024,9 +1024,9 @@
       {
         "name": "TNT SPORT OPC 2",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
-        "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRFzXrW+D9KZU9I6Ia4loSQRa2YDM8K2nMyK9MYobAEl8oaYVMdsmwyA/f4XZwAollI=",
+        "uri": "VDfua+EFdPjTY7qcmpinfJ2U2dHxCEzoIOLCNsH5NUEocKZBZK2sP2Ft93p8fJZm4k45sCAXkahe2FaXHFQ3UZNBbYfNavtlOINA1/Nrt2A=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yfJR4BvZVTl2rWx0Foo0Ag+UGOHA3O+svH7Folmut/EzDdhOZ4rUTGMY5TBkKagWOk9l1BbOH0fCmfTu7CDhHgDghMFaUYY9CiNKH7gUOW0EbhZxzvDblt9t9n4Ryb0NEg==",
+        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZdq77bc3L9vQDEdaO+2+8TLuetfey389zW36k2ezN52U4TK8kAwePYb4YaFIFdGWToIowSMo3CnO2Qwma5dhiKROJFEPbT/B3VIUlcA5IEEmgTxXtE3JwQ0CvswoVuIKg==",
         "referer": "https://player.sensa.com.ar/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
@@ -1160,11 +1160,13 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "TNT SPORT ARGENTINA OPC 2",
+        "name": "TNT SPORT OPC 2",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS9seUQIHQMqfFAvWcaPeaxAzEn1Z9uSe7vdB/Udlr68uGryoPwlq+yobNBwZf5bMPv48v9zD6duMkOlmL/oNnCX",
+        "uri": "VDfua+EFdPjTY7qcmpinfJ2U2dHxCEzoIOLCNsH5NUEocKZBZK2sP2Ft93p8fJZm4k45sCAXkahe2FaXHFQ3UZNBbYfNavtlOINA1/Nrt2A=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yYtTEkkI692w+rvB8EvH6ZsMsFgd/KsBdj9ucN/lQKKZbg+G3MwlBTvVnwNHlxPrfUHmM1h7WukzppvBiU18eGUuWzmzR+qPN7fssT/ZIsSoRtZhqG+VWmQw4HNqdurbKQ=="
+        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZdq77bc3L9vQDEdaO+2+8TLuetfey389zW36k2ezN52U4TK8kAwePYb4YaFIFdGWToIowSMo3CnO2Qwma5dhiKROJFEPbT/B3VIUlcA5IEEmgTxXtE3JwQ0CvswoVuIKg==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "TYC SPORTS",
