@@ -1558,7 +1558,7 @@
     "name": "🍿 PACK HBO & UNIVERSAL",
     "samples": [
       {
-        "name": "HBOO",
+        "name": "HBO",
         "icono": "https://i.ibb.co/tHxcPv7/channels4-profile-1.jpg",
         "uri": "us8zd2ZFj5nZr/qRHHqoXqVU/m8TR/PzRnl/vLBCawprQMP7dGnlqEvzTurtmkg8ZZNF1l39srWi8k4R0YQjJNFPeE4BTXfL8B0nqh+i99c=",
         "drm_scheme": "clearkey",
@@ -1569,18 +1569,11 @@
       {
         "name": "HBO 2",
         "icono": "https://i.ibb.co/KsX2ZS9/ar-hbo-2-m.png",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CnSUp9lfVmYR/kG7Ubgu3Rh/HqzI9Pom9hUvgFQdQtVsEfnQ6sT4WO9N4TWvSiP8t4=",
+        "uri": "us8zd2ZFj5nZr/qRHHqoXqVU/m8TR/PzRnl/vLBCawpE7JVmmzfUzvs6cILUl75rPm0gqdqfWLlbCYRg8ljl1b6xqPIvJEUScBTm735/nOU=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySVeCqVulAJzDJfYK08LKaU9imXfxo66ZYKKfS8I8dusZYl+FxUlbgv+qV1UH1rZcg7NGUNk5gcR8RKwNQUL/Q6moUyT32vcAopp+rOe7kfE3UMfyuGNAq4saZFwERGi7w==",
         "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "HBO 2 OPC 2",
-        "icono": "https://i.ibb.co/KsX2ZS9/ar-hbo-2-m.png",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS/bbTR/R3h1cmlW6xbtZg28+H32wmBnz9JHVjCDi1+KWpSa0DwnvFckHccKd0BQ290=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yVkDGgcsbp/LlBySzG/CSAX0HD/94Fkpffqp/AAtnm7EpTSQrkqQMOBhAHJrn9q/tKLgzMGyDoXEn7lpKvjUcSXJGF54HCthF4IUlA5gOEFemCdGVSC6BL2xUeq4ZAsjZA=="
       },
       {
         "name": "HBO XTREME",
@@ -1590,13 +1583,6 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yToAXGjsaqKjEMZ4xiiL6w9fbGFt6eFZ7E7pI/0BcpZLe6b3HxZJIHbM7zZiuN2FWg2rDTCN4zJxaQdRBcQz8EV+fdULYoXoDq7d2xkSBm5H/nR7KTI/lM8yZIweLfneLw==",
         "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "HBO XTREME OPC 2",
-        "icono": "https://i.ibb.co/Qm692z1/ar-max-prime-panamericano-hd-m.png",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS//PuYd+i3a5HnJeN/oFsPppw+eOt97JvNzmVk0iY1fXoTRLquj3rNAwxXUsL/YKF4=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTxKhVubtb322z09q+FcRcIHCCkMsh39n+GqC8jZRn2gvPWN4hVdU8Y90hfI+8+5ZEHRqt9zvZbQi/qS940d2HpPR9tQNhSm6idfaTVv3C1KqR24GUXJ7GFJIlU5SFwfXg=="
       },
       {
         "name": "HBO FAMILY",
