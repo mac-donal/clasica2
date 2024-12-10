@@ -3381,9 +3381,18 @@
       {
        "name": "GH2",
        "icono": "https://media.telebajocero.com/p/8ca46d77b015140bb36d7daf7607cbe7/adjuntos/225/imagenes/000/936/0000936200/412x232/smart/gran-hermano-2024jpg.jpg",
-       "uri": "WA+DQRgk9cjRJ293TnYU97wYG/JgYloerD1TOQjDejpHcp/FeOUmVNM9C4dNokg5yHhxlG3QOfx2VNHW20ay9yuHQ68GFxyjXcMNrTlqeyIn54bV9ycE5AVdhaEglAaNWbMWbHzWAKr6GeyoVx781A==",
+       "uri": "grkB+zkuyBImy296ZKI9wljJG/mgU8808YvUoWcxKmUhdzzb5opp/yG/fEn6lwoh",
        "drm_scheme": "clearkey",
-       "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRE5M26gmo2Fl8TECi/N5biQC1bZ3jD5kYyx8nWFfa528dS33I3PV6NC1+sYF6Bw32R5U30w1OlNzGOY/hK47EAaD+I0iyQUg7z7sEO1YiUl/WLbIwxoFL/VShWsuUo6Bg=="
+       "drm_license_uri": ""
+      },
+      {
+        "name": "CANAL INFANTIL",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/800/542/0/0/50191211073985.png",
+        "uri": "grkB+zkuyBImy296ZKI9wljJG/mgU8808YvUoWcxKmUhdzzb5opp/yG/fEn6lwoh",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRE5M26gmo2Fl8TECi/N5biQC1bZ3jD5kYyx8nWFfa528dS33I3PV6NC1+sYF6Bw32R5U30w1OlNzGOY/hK47EAaD+I0iyQUg7z7sEO1YiUl/WLbIwxoFL/VShWsuUo6Bg==",
+        "referer": "http://android_mobile.directvgo.com/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
     ]
   }
