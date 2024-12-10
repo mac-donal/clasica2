@@ -383,6 +383,11 @@
     "name": "🇦🇷INTERIOR DE ARGENTINA",
     "samples": [
       {
+        "name": " CANAL U CORDOBA",
+        "icono": "https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png",
+        "uri": "eEcyCWd3QU4zo5iWda1Ag8pRHbvZe+q8AyLoYZ3R70+xasehb0PVJFOe1j+9vdQZ+PwkYaVjhkE0orvY0KX+7Q=="
+      },
+      {
         "name": "canal 3 mendoza",
         "icono": "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcRIam8u-RjI-say_Wir6zaL_7Y5A59LFFW5a2Uq2_PLe7RspHoMrpE8iXJvd75a5OLo34Y&usqp=CAU",
         "uri": "eEcyCWd3QU4zo5iWda1Agy+fBe29NFYXuyNurtSIQPXmyBOgvmejDdZ0Ao0uFmPU5/grOcE6Px9YvndFWVYyyg=="
