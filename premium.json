@@ -3381,10 +3381,10 @@
       {
         "name": "CANAL INFANTIL",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/800/542/0/0/50191211073985.png",
-        "uri": "grkB+zkuyBImy296ZKI9wljJG/mgU8808YvUoWcxKmUhdzzb5opp/yG/fEn6lwoh",
+        "uri": "OJ5Y1XswsT2vtrxGPlfxQAEFUOan32jA7OwbCtUddPB2xA5gb273W24gnEEk3UFYxmIPbRciwLwvBLmVD3x1nw==",
         "drm_scheme": "clearkey",
         "drm_license_url": "YOhN6SaFzURu0OC51/r6QwQo+BMIAVU5XmYRRDU2PA6yri8qHYCvdFFZsrjpLjQgX7JuH2eBp+cHN0eZAGHcZLaOF3bmjzV0mmBsLgtZLMBgC6hQX5W6LD+c3hBobjISt8m+smzRo4E1tHRgWcuWXjMQl3idK/Ww9+SsYO0bt8E=",
-        "referer": "android_mobile.directvgo.com",
+        "origin": "android_mobile.directvgo.com",
         "user_agent": "dgo/4.48.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
     ]
