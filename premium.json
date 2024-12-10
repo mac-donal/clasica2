@@ -239,6 +239,11 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
+        "name": "A24",
+        "icono": "https://i.ibb.co/z2QvG13/Logo-a24.jpg",
+        "uri": "Fd1CYUZIXm7wFnbqpQODiK/alOVUra9iJtsMxqwjUMQ7LO5bSw0wpvgaurATsdQFG/9emnZ18/EZENlxNTNJLQ=="
+      },
+      {
         "name": "CANAL 26",
         "icono": "https://i.ibb.co/ScjYgWj/Logo-Canal26.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl7iswTahd8zF+s8ofdMlSbdlcYhRQImxt6KHVfwYFa3c3rZKIL33YVlTezDbbMkUOUmtA8J7xXJB3HCndAUNvd",
@@ -381,11 +386,6 @@
         "name": "canal 3 mendoza",
         "icono": "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcRIam8u-RjI-say_Wir6zaL_7Y5A59LFFW5a2Uq2_PLe7RspHoMrpE8iXJvd75a5OLo34Y&usqp=CAU",
         "uri": "eEcyCWd3QU4zo5iWda1Agy+fBe29NFYXuyNurtSIQPXmyBOgvmejDdZ0Ao0uFmPU5/grOcE6Px9YvndFWVYyyg=="
-      },
-      {
-        "name": "7 de mendoza",
-        "icono": "https://yt3.googleusercontent.com/LPkwowY2codqCuMWnebTEV2qMilisd0RIjS59T5XmyqgCcTQSHlG_Rzs-EMzT9tI24VVdN2e=s900-c-k-c0x00ffffff-no-rj",
-        "uri": "IaHgeqImiPWgcJdPpk/no0VGuUsc6/ukFYCwxKVHnVEJliP1Ic0pNQM7E9YV6MgdPE5Xe7Pz4lMFsPdAxTgAmGTHb6XgWllmkz8y5ZOcbipf8cKjC2u4CKopskg1HvGiDH6DN+dana2pqbGnnpU+XD80Qk+3WRj1DUJ8AX8xmtBjwEwYMAD9EdnwUwU3Guqw"
       },
       {
         "name": "Canal 8 San Juan",
