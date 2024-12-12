@@ -3110,6 +3110,125 @@
         "name": "CHARRÚA TV",
         "icono": "https://i.ibb.co/ts4GCSf/charrua.png",
         "uri": "kJRe0ATzR+HdKwZ/6gTjWrxKwsmftFR/+NbL9yaUkKFuie9Rr95h1RcbyDhI5E6w/ihcYDrdGHL+9O+CM8EdoQ=="
+   }
+    ]
+  },
+  {
+    "name": "🇨🇱CANALES DE CHILE",
+    "samples": [
+      {
+        "name": "TV CHILE",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_de_TV_Chile.png/687px-Logo_de_TV_Chile.png",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmgMmYjZ20J9d9VBR1IVuGJrqaOo5aKh/4q8jC+wnj7QWvJMeZa0RG9sPEq1S0TDxCUmtA8J7xXJB3HCndAUNvd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yQBt2Ps8avz/xkhqjf0q6vRmv33g5Yzc2sDT0YMccnMmu7NLgRP/KQQHmz9vt1lXdGmMYB8DavA0gFStiQJXynfyxBra0SeDqUtIeJLVr9h2feFW1DnEzKecAaD/aVbVgQ==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": " Chilevision Contigo",
+        "icono": "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcTEgAk3JH-qX36AS-VvsPInZr7KKQsCw1yIq6MxS1SJRXAoih0H",
+        "uri": "gUcYHE3bE3vr92Yzy9g5UyT+UgReVNNXOpswo32/bPE6ef7iPfB+NpOAnmV9GYir4QR45mtODrytaKiVquBrqaDwqmbaPPlj2WGbVwXif0mhXSkGvmMvPvbobt8t5iVPYjSpWDr3HmjeloykeAfJbDolonzT2xLxfvDL8RBYPj3WvUvWPFWbljLgoBA+lV7wecXr9xFnNFMKDvwk9LMnuUameNCchq6MLW6s93hcu/1DAJLjGP8AFQTWF8N89NXuj0ONishBxKViTsFTQn6ui6h/27jw2nONYEzgI8AiH1CSgxJxswak54JuUHxjfEZ6Kpsn5uquG8C3C4D691agSqTp4ovnLUXn7nXsq/Sf4cccPk28gybtJO7sXwCLobycQgH7XftRBfbYlVzitlR8CZm2si9PMDTCiA/4OKvk6dxyC8+FlllVR5ifb5MZ/A4PGQQKS755+Yk57SdwpwJyXWwTK+kFBO8Qa7lHA1yIf+SyGy6MyVbYhrDlhTdLQCaFagW1eSdZOz1TFVLSk5LhMLQEknBhM/tDf3HrFuzgK2HaWokHZt1xF78EnwTKMLSLJWJvX6WXFIKQ2YnoZE1lrw=="
+      },
+      {
+        "name": "CHILEVISION",
+        "icono": "https://i.postimg.cc/76Z3k09n/CHV.png",
+        "uri": "pWaCex+ahRcJ3/Q+iByJah/6i6sfj1dOGSs+pqkUb9Ecyg1xMQVGnMYkfH1XITy1"
+      },
+      {
+        "name": "MEGA NOTICIAS",
+        "icono": "https://i.ibb.co/bHYr1dB/Meganoticias2019.png",
+        "uri": "AVX+bRwmae9U4oV/H7WVv7qGhN40PR8DnY+8D6UNsnqxVVX4xyywvuCpFnBVxJoc"
+      },
+      {
+        "name": "TVN",
+        "icono": "https://i.ibb.co/7yLNbHd/OIP-2.jpg",
+        "uri": "HXBpnAJ+FnvaqWliMkDIsJ34bbexxgJJNDbzqx8TpnWiakpP1dvHJ8Athz2sRJ5R9p/qu0Z9yn8gHsJE67kUrQ=="
+      },
+      {
+        "name": "T13",
+        "icono": "https://i.ibb.co/KFGxsLf/PktzDCH.png",
+        "uri": "Fd1CYUZIXm7wFnbqpQODiK/alOVUra9iJtsMxqwjUMTdEzmbabdo89wHLLHDAOZC7rnB7B6IQgbEs0Wr9JjLLQ=="
+      },
+      {
+        "name": "LA RED",
+        "icono": "https://i.ibb.co/7YXDfVd/OIP-3.jpg",
+        "uri": "Qw6TOaBWXJpUrdTexGZiFo5JvHsZ7CkHs8F1pluPV9z7IkDcVL6aJzjyCM/8K+BtOKxdIiY7VM6P/o6aIDwosjeAG//vY30Ka9bkPjL2MPU="
+      },
+      {
+        "name": "24 HORAS",
+        "icono": "https://i.ibb.co/FncDn9m/CEE9zPe.png",
+        "uri": "Fd1CYUZIXm7wFnbqpQODiK/alOVUra9iJtsMxqwjUMRKtLbjcxsfEhwiPKaE7Y6r46i9uPnzBPC6pXXR4aLDAQ=="
+      },
+      {
+        "name": "ANTOFAGASTA TV",
+        "icono": "https://i.ibb.co/dc4q1c9/channels4-profile-1.jpg",
+        "uri": "Qw6TOaBWXJpUrdTexGZiFpnxssjV058ph3b1ctXKwFn8MIAyxF+bsnIgZVj2dAcNpFCWBIsXKp5c+y+LxoFQ4Q=="
+      },
+      {
+        "name": "CNN CHILE",
+        "icono": "https://i.ibb.co/Q8xdWSk/R.png",
+        "uri": "E3wFbsj/E3lA7SupWjq/T3y8BMLQC0OAQHloKQf32FNs1GXWqUwCoFsZy0o2+vw4cQLoS8qJA4pi/3/dk4PlHdtOb9He1Qeztmi5Pbr2D8rsbtyepwDckq7R8v45LF6EOTE18pHWEd9+8T2EvHo7HmxekMvlBTkvV7hjd49J5m/JyMZvD5PxmYCWYPkIYR9ELRiRudUPIy5nYSOkgf/th5xoq0Do9JkipHgUMUpOlgEJPzbXLT/pe6uoEV1gooyV"
+      },
+      {
+        "name": "ADN",
+        "icono": "https://i.ibb.co/PDTMK1g/OIP-4.jpg",
+        "uri": "aUxUIn/oc9ghEG/CkkCWOudddXKiTZklKu/I7l47ZnpukJThg30W007fhdld7t0Qs//Yte/zRzScJKnf5KU6gw6HMwjnw4aivTEVz6pZvk8BIMHY/dyM8zoNBkLfoad/vAG0BdOKkEzImL7fIzSbURNQl2vumfd37AvyCqw9OK1142WEDgoX0eDHs+ZLEo0e"
+      },
+      {
+        "name": "CANAL PAÍS",
+        "icono": "https://i.ibb.co/bP98Hzp/1402-Canal-Pais.jpg",
+        "uri": "St7Eg9dH2vclNkDp2W4VPKk+tsi4QrHOZ1+P0lL/ZxXDL68n9/+nCm5UmcN/znHTnRSZpoOQCh8oK6M0+b4C/g=="
+      },
+      {
+        "name": "BIO BIO TV",
+        "icono": "https://i.ibb.co/gRgB22k/OIP-5.jpg",
+        "uri": "aUxUIn/oc9ghEG/CkkCWOudddXKiTZklKu/I7l47ZnpeIl/xUahzPXwi6I9iOhEiLVw11o1o78lMtluB9xGvO2zcXAwTTyfImOQM/CJMyRH8wyAIkVjviN2h3byuz1mVts40QEEg09xxJBw7G9S/ur/Oi7dYZD4AVCLbwtM/sJ1//3gwfUhurY/C0MqnxSee"
+      },
+      {
+        "name": "PORTAL TV",
+        "icono": "https://i.ibb.co/tQGvh4p/OIP-6.jpg",
+        "uri": "ifvLwtTkkl8hdH/k+ORf1JwdrsKx6aRkx21dKFrk9yy376Xgy3phrZYZOb2vEqvH+PwkYaVjhkE0orvY0KX+7Q=="
+      },
+      {
+        "name": "STGO TV",
+        "icono": "hhttps://i.ibb.co/0BsV0cD/OIP-7.jpg",
+        "uri": "OfGqFuo6qm/yBBw85KL4un8HyJV6hKRataVyh4G757C01kPuWdumdyZPQNKfChBD"
+      },
+      {
+        "name": "TELETRAK",
+        "icono": "https://i.ibb.co/WvX3zcC/teletrack.png",
+        "uri": "nSj7ISkXXk1zjPmtqjYTSNeJWzTYDtT7sELf+NhXg3+93zTITZmkTcvivVp+idPjMxCXeJ0r9bD35Kxg7Ru3wQ=="
+      },
+      {
+        "name": "TV SENADO",
+        "icono": "https://i.ibb.co/SRbmPhb/channels4-profile.jpg",
+        "uri": "/UusYVgdAeiguCeqw/JqBxVOuyYTvhuReI6npx6sLbGAtiwzMYlqxR2UTrhnDrdeN3JgqQepzxEKPzc0XPeGnVVCRtBGa4f3OPkFNF1jLVONHj16LjRc290PFr3CYj2lNVexFv2WSl9tllMDbTFxkRd78fC+HgRy3bHicL+n/mE="
+      },
+      {
+        "name": "TVEX",
+        "icono": "https://i.ibb.co/FVSpRjC/OIP-9.jpg",
+        "uri": "pisUnWVDdTFP1f4s5E0NdWstrmrXUf4ZK6kvAG75B0uHMgNHjOa7xTG7pS+bqLqe"
+      },
+      {
+        "name": "UESTV",
+        "icono": "https://i.ibb.co/FbdSPcx/OIP-10.jpg",
+        "uri": "vRxGURC+fQPPpiZOboDdtEorI6G2YA1CiCp1IPJXA57dip7qo58bhO+6HK2QoD/U"
+      },
+      {
+        "name": "TERROR TV",
+        "icono": "https://i.ibb.co/1b8hm69/OIP-11.jpg",
+        "uri": "3hMQ/Y9jZaXHXt6TvjaLgsAYiMqB7QmrPZOWp9aIcj7p2NK+5vae/4U4WiZIkoQi/tk0NI1WYL5xQsASsqdTKA=="
+      },
+      {
+        "name": "TVR",
+        "icono": "https://i.ibb.co/30SHwcF/53311917-1258469654318918-8926059123426983936-n.png",
+        "uri": "aUxUIn/oc9ghEG/CkkCWOuoSlanh2YUm6L8oG2X+gWVBeJZmQaTEhGH1wpTcntsjN4Ab/+9jfQpr1uQ+MvYw9Q=="
+      },
+      {
+        "name": "NUEVO TIEMPO",
+        "icono": "https://i.ibb.co/dtjvDK8/OIP-14.jpg",
+        "uri": "IEvt8Uy1E/t7L2aMUiEMwYJVdGoOr7g5nSFR3yt0gEu6v3nr8Mm+xJzTW91TXWQfAXBPsIxv2WMkaSjprUv4QMZkbawCHWABLPcv8rd5zzI="
       }
     ]
   },
